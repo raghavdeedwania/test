@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Travel Bucket List</title>
+</head>
+<body>
+  <h1>My Travel Bucket List</h1>
+  <p>These are the top 3 places I dream of visiting one day!</p>
+
+  <ol>
+    <li>
+      <h2>Kashmir,india</h2>
+      <img src="https://assets-news.housing.com/news/wp-content/uploads/2022/08/21104741/Tourist-Places-in-Kashmir-feature-compressed.jpg">
+      <p>Kashmir is known as heaven on earth, traditional wooden houses, and dal lake. It’s a perfect blend of ancient culture and natural beauty.</p>
+      <a href="https://simple.wikipedia.org/wiki/Kashmir" target="_blank">Learn more about kashmir</a>
+    </li>
+
+    <li>
+      <h2>Paris,france</h2>
+      <img src="https://i1.wp.com/beautifulplacestovisit.com/wp-content/uploads/2011/05/Tour_eiffel_paris-eiffel_tower.jpg" alt="Eiffel Tower in Paris at sunset" width="400">
+      <p>Paris, the City of Light, is famed for its art, cuisine, and iconic landmarks like the Eiffel Tower and Louvre Museum.</p>
+      <a href="https://en.parisinfo.com/" target="_blank">Explore Paris tourism</a>
+    </li>
+
+    <li>
+      <h2>singapore</h2>
+      <img src="https://tse1.mm.bing.net/th/id/OIP.TbzVH3w05SWTEGT41EzrYQHaEo?pid=Api&P=0&h=180">
+    <p>"Singapore is not about what’s under the ground, but about what’s above the ground"</p>
+      <a href="https://en.wikipedia.org/wiki/Singapore" target="_blank">Visit wikipedia official site</a>
+    </li>
+  </ol>
+</body>
+</html>
